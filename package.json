@@ -1,7 +1,7 @@
 {
-  "name": "sbp-api",
+  "name": "mod-api",
   "version": "1.0.0",
-  "description": "Sistema de Bens Patrimôniais",
+  "description": "",
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon src/server"
